@@ -15,7 +15,7 @@ import rainNight from './assets/rainnight.gif'
 import snowDay from './assets/snowday.gif'
 import snowNight from './assets/snownight.gif'
 import humidityIcon from "./assets/humidity.gif"
-import snowIcon from './assets/snowicon.gif'
+import snowIcon from './assets/snowIcon.gif'
 import windIcon from './assets/windIcon.gif'
 
 const WeatherDetails = ({ icon, temp, city, country, lat, lng, humidity, wind }) => {
