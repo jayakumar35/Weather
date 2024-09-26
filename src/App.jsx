@@ -24,7 +24,7 @@ const WeatherDetails = ({ icon, temp, city, country, lat, lng, humidity, wind })
       <div className="image">
         <img className='weathericon' src={icon} alt="Weather Icon" />
       </div>
-      <div className="temp">{temp}C</div>
+      <div className="temp">{temp}°C</div>
       <div className="location">{city}</div>
       <div className="country">{country}</div>
       <div className="cord">
