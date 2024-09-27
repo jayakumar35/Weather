@@ -24,6 +24,10 @@ body {
   background: #fff;
   border-radius: 8px;
   box-shadow: 0 4px 8px egba(0, 0, 0, 0.1);
+  /* background-image: url(assets/weatherbg.jpg);
+  background-position: center;
+  background-size: cover;
+ */
 }
 
 .input-container {
