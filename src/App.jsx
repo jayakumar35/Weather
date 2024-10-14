@@ -83,10 +83,10 @@ function App() {
     "04n": cloudNight,
     "09d": rainDay,
     "09n": rainNight,
-    "10d": snowDay,
-    "10n": snowNight,
-    "13d": snowIcon,
-    "13n": snowIcon,
+    "10d": rainDay,
+    "10n": rainNight,
+    "13d": cloudDay,
+    "13n": cloudNight,
   };
 
   const search = async () => {
